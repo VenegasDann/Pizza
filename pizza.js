@@ -7,16 +7,16 @@ class pizza{
 
 
 sizecost(){
-  if(this.size==s);
+  if(this.size=="s");
   return 7.99
 }
-if (this.size==m) {
+if (this.size=="m") {
   return 9.99
 }
-if (this.size==l) {
+if (this.size=="l") {
   return 12.99
 }
-if (this.size==xl){
+if (this.size=="xl"){
   return 15.99
 }
 
